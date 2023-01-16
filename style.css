@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+}
+
+.mainDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form{
+    margin-top: 50px;
+    height: 400px;
+    width: 600px;
+    border: black solid 1px;
+}
+
